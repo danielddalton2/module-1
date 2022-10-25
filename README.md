@@ -7,6 +7,8 @@ Codebase that follows accessibility standards the website is optimized for searc
 
 ## Installation
 
+URL: https://danielddalton2.github.io/module-1/
+
 ## Usage
 
 ![alt text](https://github.com/danielddalton2/module-1/blob/13389b63cf5a184078e1a10630d1c8b1d2b3bffd/urban-octo-telegram/Develop/assets/images/web-screenshot-1.png)
