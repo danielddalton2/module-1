@@ -7,7 +7,9 @@ Codebase that follows accessibility standards the website is optimized for searc
 
 ## Installation
 
-Insert Website URL here.
+<img src=".assets/images/web-screenshot-1.png">
+<img src=".assets/images/web-screenshot-2.png">
+<img src=".assets/images/web-screenshot-3.png">
 
 ## Usage
 
